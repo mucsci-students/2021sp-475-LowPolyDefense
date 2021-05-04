@@ -1,5 +1,6 @@
 # 2021sp-475-LowPolyDefense
 
+A 3-week developed 3D tower defense game
 
 # Windows 
 
